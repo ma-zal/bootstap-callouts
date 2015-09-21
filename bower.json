@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-callouts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ma-zal/bootstrap-callouts",
+  "authors": [
+    "Martin Zaloudek (http://www.zal.cz)"
+  ],
+  "description": "Nicer message boxes for Twitter bootstrap.",
+  "main": "dist/bs-callouts.css",
+  "keywords": [
+    "bootstrap",
+    "callouts",
+    "callout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ma-zal/bootstrap-callouts.git"
+  }
+
+}
